@@ -26,7 +26,7 @@
 //}
 
 
-		Pattern pattern = Pattern.compile(regex);
+		Pattern pattern = Pattern.compile(regex12345);
 
 
 	Pattern pattern = Pattern.compile(regex);
