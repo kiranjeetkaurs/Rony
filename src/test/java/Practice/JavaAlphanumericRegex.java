@@ -24,3 +24,11 @@
 //		}
 //	}
 //}
+
+
+		Pattern pattern = Pattern.compile(regex1234);
+
+
+	Pattern pattern = Pattern.compile(regex);
+
+		Pattern pattern = Pattern.compile(regex);
